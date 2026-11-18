@@ -9,16 +9,16 @@ MarianApp convierte fotos de facturas en texto. Puedes escanear una factura con 
 
 ## Qué datos se recopilan
 MarianApp no recopila, almacena ni transmite tus datos personales. Todo el reconocimiento de texto se realiza dentro de tu iPhone, sin conexión a servidores propios ni de terceros.
-• No hay cuentas ni registro de usuarios.
-• No se envían imágenes ni texto a ningún servidor.
-• No se usa analítica, publicidad ni herramientas de rastreo.
-• No se comparte información con terceros.
+- No hay cuentas ni registro de usuarios.
+- No se envían imágenes ni texto a ningún servidor.
+- No se usa analítica, publicidad ni herramientas de rastreo.
+- No se comparte información con terceros.
 Las imágenes de las facturas y el texto obtenido permanecen en tu dispositivo, bajo tu control.
 
 ## Permisos del dispositivo
 La app solo pide los permisos que necesita para funcionar.
-• Cámara: se usa únicamente para escanear facturas. Las imágenes se procesan en tu dispositivo.
-• Fotos: la app usa el selector de fotos del sistema, así que solo accede a las imágenes que tú eliges. No puede ver el resto de tu galería.
+- Cámara: se usa únicamente para escanear facturas. Las imágenes se procesan en tu dispositivo.
+- Fotos: la app usa el selector de fotos del sistema, así que solo accede a las imágenes que tú eliges. No puede ver el resto de tu galería.
 
 ## Compartir texto
 Cuando usas el botón Compartir, tú eliges a qué aplicación enviar el texto, por ejemplo WhatsApp, Mensajes o correo. MarianApp no controla lo que ocurre después: desde ese momento el texto se rige por la política de privacidad de la aplicación que hayas elegido.
