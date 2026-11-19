@@ -2,7 +2,7 @@
 Nov 18, 2026 · @Bryan
 
 ## Responsable
-MarianApp es una aplicación para iPhone publicada por Brayan González, con domicilio en Colombia. Para cualquier consulta sobre esta política puedes escribir a ingbryan07@gmail.com.
+MarianApp es una aplicación para iPhone publicada por BryanG, con domicilio en Colombia. Para cualquier consulta sobre esta política puedes escribir a ingbryan07@gmail.com.
 
 ## Qué hace la app
 MarianApp convierte fotos de facturas en texto. Puedes escanear una factura con la cámara o elegir una foto de tu galería, y la app reconoce el texto de la imagen y lo muestra conservando, en lo posible, el formato original.
@@ -13,7 +13,7 @@ MarianApp no recopila, almacena ni transmite tus datos personales. Todo el recon
 - No se envían imágenes ni texto a ningún servidor.
 - No se usa analítica, publicidad ni herramientas de rastreo.
 - No se comparte información con terceros.
-Las imágenes de las facturas y el texto obtenido permanecen en tu dispositivo, bajo tu control.
+- Las imágenes de las facturas y el texto obtenido permanecen en tu dispositivo, bajo tu control.
 
 ## Permisos del dispositivo
 La app solo pide los permisos que necesita para funcionar.
@@ -25,7 +25,7 @@ Cuando usas el botón Compartir, tú eliges a qué aplicación enviar el texto, 
 
 ## Tus derechos (Colombia)
 Como MarianApp no recopila datos personales, no mantiene bases de datos con información de sus usuarios. Si escribes al correo de contacto, tu dirección y tu mensaje se usan solo para responderte.
-Tienes derecho a conocer, actualizar, rectificar y solicitar la supresión de los datos que hayas enviado por ese medio, y a presentar quejas ante la Superintendencia de Industria y Comercio.
+Tienes derecho a conocer, actualizar, rectificar y solicitar la supresión de los datos que hayas enviado por dicho medio.
 
 ## Cambios y contacto
-Si esta política cambia, la versión actualizada se publicará en esta misma página con su fecha. Para cualquier duda, escribe a ingbryan07@gmail.com.
+Si esta política cambia, la versión actualizada se publicará en esta misma página con su fecha.
